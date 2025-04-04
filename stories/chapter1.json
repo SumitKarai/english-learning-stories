@@ -1,10 +1,345 @@
 [
-  {
-    "english": "One year later, I visit one big town.",
-    "hindi": "एक साल बाद, मैं एक बड़े शहर में जाता हूँ।"
-  },
-  {
-    "english": "The name of this town is Hull.",
-    "hindi": "इस शहर का नाम हल है।"
-  }
-]
+        {
+          "english": "My name is Robinson.",
+          "hindi": "मेरा नाम रॉबिन्सन है।"
+        },
+        {
+          "english": "I am from England.",
+          "hindi": "मैं इंग्लैंड से हूँ।"
+        },
+        {
+          "english": "I am eighteen years old.",
+          "hindi": "मैं अठारह साल का हूँ।"
+        },
+        {
+          "english": "My father is German.",
+          "hindi": "मेरे पिता जर्मन हैं।"
+        },
+        {
+          "english": "My mother is English.",
+          "hindi": "मेरी माँ अंग्रेज़ हैं।"
+        },
+        {
+          "english": "I have two brothers.",
+          "hindi": "मेरे दो भाई हैं।"
+        },
+        {
+          "english": "I have one sister.",
+          "hindi": "मेरी एक बहन है।"
+        },
+        {
+          "english": "We are a good family.",
+          "hindi": "हम एक अच्छा परिवार हैं।"
+        },
+        {
+          "english": "My father is a good businessman.",
+          "hindi": "मेरे पिता एक अच्छे व्यवसायी हैं।"
+        },
+        {
+          "english": "We have money.",
+          "hindi": "हमारे पास पैसा है।"
+        },
+        {
+          "english": "I have a good school.",
+          "hindi": "मेरे पास एक अच्छा स्कूल है।"
+        },
+        {
+          "english": "I have a good life.",
+          "hindi": "मेरी ज़िंदगी अच्छी है।"
+        },
+        {
+          "english": "But I have a dream.",
+          "hindi": "लेकिन मेरा एक सपना है।"
+        },
+        {
+          "english": "I want to travel.",
+          "hindi": "मैं यात्रा करना चाहता हूँ।"
+        },
+        {
+          "english": "I want to see the world.",
+          "hindi": "मैं दुनिया देखना चाहता हूँ।"
+        },
+        {
+          "english": "My father is a good man.",
+          "hindi": "मेरे पिता एक अच्छे इंसान हैं।"
+        },
+        {
+          "english": "He wants the best for me.",
+          "hindi": "वह मेरे लिए सबसे अच्छा चाहते हैं।"
+        },
+        {
+          "english": "But my dream is not his dream.",
+          "hindi": "लेकिन मेरा सपना उनका सपना नहीं है।"
+        },
+        {
+          "english": "He is not happy.",
+          "hindi": "वह खुश नहीं हैं।"
+        },
+        {
+          "english": "The situation is not easy.",
+          "hindi": "स्थिति आसान नहीं है।"
+        },
+        {
+          "english": "It is morning.",
+          "hindi": "यह सुबह का समय है।"
+        },
+        {
+          "english": "My father is in his room.",
+          "hindi": "मेरे पिता अपने कमरे में हैं।"
+        },
+        {
+          "english": "He wants to speak with me.",
+          "hindi": "वह मुझसे बात करना चाहते हैं।"
+        },
+        {
+          "english": "I go to his room.",
+          "hindi": "मैं उनके कमरे में जाता हूँ।"
+        },
+        {
+          "english": "My father has some questions.",
+          "hindi": "मेरे पिता के कुछ सवाल हैं।"
+        },
+        {
+          "english": "My father wants to know why I want to travel.",
+          "hindi": "मेरे पिता जानना चाहते हैं कि मैं यात्रा क्यों करना चाहता हूँ।"
+        },
+        {
+          "english": "My father says,",
+          "hindi": "मेरे पिता कहते हैं,   "
+        },
+        {
+          "english": "“Travelling is dangerous.",
+           "hindi": "'यात्रा करना खतरनाक है।"
+        },
+       {
+          "english": "Travelling is not comfortable.",
+           "hindi": "यात्रा आरामदायक नहीं है।"
+        },
+  
+       {
+          "english": "You can die.”",
+           "hindi": "तुम मर सकते हो।'"
+        },
+        {
+          "english": "I think about it.",
+          "hindi": "मैं इसके बारे में सोचता हूँ।"
+        },
+        {
+          "english": "Travelling is dangerous.",
+          "hindi": "यात्रा करना खतरनाक है।"
+        },
+        {
+          "english": "It is not comfortable.",
+          "hindi": "यह आरामदायक नहीं है।"
+        },
+        {
+          "english": "I can die.",
+          "hindi": "मैं मर सकता हूँ।"
+        },
+        {
+          "english": "But it is also very interesting.",
+          "hindi": "लेकिन यह बहुत दिलचस्प भी है।"
+        },
+        {
+          "english": "I can see new countries.",
+          "hindi": "मैं नए देश देख सकता हूँ।"
+        },
+        {
+          "english": "I can meet new people.",
+          "hindi": "मैं नए लोगों से मिल सकता हूँ।"
+        },
+        {
+          "english": "I think about travelling every day.",
+          "hindi": "मैं हर दिन यात्रा के बारे में सोचता हूँ।"
+        },
+        {
+          "english": "Maybe my mother can help me.",
+          "hindi": "शायद मेरी माँ मेरी मदद कर सकती हैं।"
+        },
+        {
+          "english": "I speak with my mother.",
+          "hindi": "मैं अपनी माँ से बात करता हूँ।"
+        },
+        {
+          "english": "I tell my mother,    ",
+          "hindi": "मैं अपनी माँ से कहता हूँ, "
+        },
+       {
+          "english": "“I want to travel.",
+          "hindi": "'मैं यात्रा करना चाहता हूँ।"
+        },
+  
+       {
+          "english": "I want to see the world.",
+          "hindi": "मैं दुनिया देखना चाहता हूँ।"
+        },
+       {
+          "english": "Please, speak with my father.",
+          "hindi": "कृपया, मेरे पिता से बात करें।"
+        },
+       {
+          "english": "Maybe with your help, I can travel.”",
+          "hindi": "शायद आपकी मदद से मैं यात्रा कर सकूँ।'"
+        },
+        {
+          "english": "My mother loves me.",
+          "hindi": "मेरी माँ मुझसे प्यार करती हैं।"
+        },
+        {
+          "english": "But she thinks that travelling is dangerous.",
+          "hindi": "लेकिन वह सोचती हैं कि यात्रा करना खतरनाक है।"
+        },
+        {
+          "english": "She thinks that my place is at home.",
+          "hindi": "वह सोचती हैं कि मेरी जगह घर पर है।"
+        },
+        {
+          "english": "She thinks that life in England is the best for me.",
+          "hindi": "वह सोचती हैं कि इंग्लैंड में जीवन मेरे लिए सबसे अच्छा है।"
+        },
+
+            {
+              "english": "One year later, I visit one big town.",
+              "hindi": "एक साल बाद, मैं एक बड़े शहर जाता हूँ।"
+            },
+            {
+              "english": "The name of this town is Hull.",
+              "hindi": "इस शहर का नाम हल है।"
+            },
+            {
+              "english": "I meet my friend.",
+              "hindi": "मैं अपने दोस्त से मिलता हूँ।"
+            },
+            {
+              "english": "His father has a ship.",
+              "hindi": "उसके पिता के पास एक जहाज है।"
+            },
+            {
+              "english": "They travel to London.",
+              "hindi": "वे लंदन यात्रा करते हैं।"
+            },
+            {
+              "english": "My friend tells me, “Go with me.”",
+              "hindi": "मेरा दोस्त मुझसे कहता है, \"मेरे साथ चलो।\""
+            },
+                {
+                  "english": "I think about it.",
+                  "hindi": "मैं इसके बारे में सोचता हूँ।"
+                },
+                {
+                  "english": "I am not prepared.",
+                  "hindi": "मैं तैयार नहीं हूँ।"
+                },
+                {
+                  "english": "But I can try if travelling is for me.",
+                  "hindi": "लेकिन मैं कोशिश कर सकता हूँ कि क्या यात्रा मेरे लिए है।"
+                },
+                {
+                  "english": "I go to London.",
+                  "hindi": "मैं लंदन जाता हूँ।"
+                },
+                {
+                  "english": "I am very happy.",
+                  "hindi": "मैं बहुत खुश हूँ।"
+                },
+                {
+                  "english": "It is my first long journey.",
+                  "hindi": "यह मेरी पहली लंबी यात्रा है।"
+                },
+                {
+                  "english": "It is very interesting.",
+                  "hindi": "यह बहुत रोचक है।"
+                },
+                {
+                  "english": "The first hour is good.",
+                  "hindi": "पहला घंटा अच्छा होता है।"
+                },
+                {
+                  "english": "But then we have problems.",
+                  "hindi": "लेकिन फिर हमें समस्याएँ होती हैं।"
+                },
+                {
+                  "english": "We see a storm.",
+                  "hindi": "हम एक तूफान देखते हैं।"
+                },
+                {
+                  "english": "The storm is big.",
+                  "hindi": "तूफान बड़ा है।"
+                },
+                {
+                  "english": "The wind is strong.",
+                  "hindi": "हवा तेज़ है।"
+                },
+                {
+                  "english": "The ship goes up and down.",
+                  "hindi": "जहाज ऊपर-नीचे होता है।"
+                },
+                {
+                  "english": "I have fear.",
+                  "hindi": "मुझे डर लगता है।"
+                },
+                {
+                  "english": "I think about my home.",
+                  "hindi": "मैं अपने घर के बारे में सोचता हूँ।"
+                },
+                {
+                  "english": "I think about my comfortable bed.",
+                  "hindi": "मैं अपने आरामदायक बिस्तर के बारे में सोचता हूँ।"
+                },
+                {
+                  "english": "The storm is finished in the morning.",
+                  "hindi": "सुबह में तूफान खत्म हो जाता है।"
+                },
+                {
+                  "english": "The weather is nice.",
+                  "hindi": "मौसम अच्छा है।"
+                },
+                {
+                  "english": "And the evening is beautiful.",
+                  "hindi": "और शाम सुंदर है।"
+                },
+                {
+                  "english": "Everything is quiet.",
+                  "hindi": "सब कुछ शांत है।"
+                },
+                {
+                  "english": "One man comes to me.",
+                  "hindi": "एक आदमी मेरे पास आता है।"
+                },
+                {
+                  "english": "We speak.",
+                  "hindi": "हम बातें करते हैं।"
+                },
+                {
+                  "english": "We speak about the storm.",
+                  "hindi": "हम तूफान के बारे में बातें करते हैं।"
+                },
+                {
+                  "english": "I speak about my fear.",
+                  "hindi": "मैं अपने डर के बारे में बात करता हूँ।"
+                },
+                {
+                  "english": "The man gives me a drink.",
+                  "hindi": "वह आदमी मुझे एक पेय देता है।"
+                },
+                {
+                  "english": "I drink very much.",
+                  "hindi": "मैं बहुत अधिक पीता हूँ।"
+                },
+                {
+                  "english": "I sleep very well at night.",
+                  "hindi": "मैं रात को बहुत अच्छी तरह सोता हूँ।"
+                },
+                {
+                  "english": "The next day, I forget about my home.",
+                  "hindi": "अगले दिन, मैं अपने घर को भूल जाता हूँ।"
+                },
+                {
+                  "english": "I forget about my comfortable bed.",
+                  "hindi": "मैं अपने आरामदायक बिस्तर को भूल जाता हूँ।"
+                },
+                {
+                  "english": "I dream more about travelling.",
+                  "hindi": "मैं यात्रा के बारे में और अधिक सपने देखता हूँ।"
+                }
+              ]
